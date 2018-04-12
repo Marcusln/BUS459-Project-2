@@ -1,5 +1,6 @@
-print('Hello World!')
 
-# litt test da
-# gullfisk
-# siste test
+#
+## Explore data
+###
+
+plot(data1$x,data1$y)
